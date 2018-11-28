@@ -1,2 +1,2 @@
 # git-github
-Tutorial
+Tutorial of how to learn Git.
